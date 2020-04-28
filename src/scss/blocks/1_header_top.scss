@@ -1,0 +1,23 @@
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background: $grey;
+
+    .header-top_search{
+
+    }
+
+    .header-top_list{
+
+        ul{
+            display: flex;
+            justify-content: space-between;
+
+            li{
+
+            }
+        }
+
+    }
+}
